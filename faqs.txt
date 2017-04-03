@@ -1,1 +1,2 @@
-1) add -A or add "specific file" 
+1) add -A or add "specific file" ???
+2) When pulling from the origin you shouldn’t have files in the working directory, as they will be overwritten in the process. ???
